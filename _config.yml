@@ -1,0 +1,28 @@
+name: Orange Antelopes
+favicon: null
+layout_spectrum: 0.12632094719447196
+typography_spectrum: 0.19658720749430358
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.12291149888187647
+  lightness: 0.9809569276403636
+  saturation: 0.7832648730836809
+  rhythmicContrast: 0.8595099048689008
+purpose: []
